@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thajeef93
+- 👋 Hi, I’m Thajeef Thangarajah
 - 👀 I’m interested in watching movies and learning coding
 - 🌱 I have successfully completed my MSc Big Data Technologies(Pyspark coding,Machine learning,Streaming Data,SQL Queries,Cloud Computing) 
 - 💞️ I’m looking to collaborate on machine learning and data analysing projects
